@@ -1,0 +1,11 @@
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\bin\Debug\netcoreapp2.0\Test_Employee.deps.json
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\bin\Debug\netcoreapp2.0\Test_Employee.runtimeconfig.json
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\bin\Debug\netcoreapp2.0\Test_Employee.runtimeconfig.dev.json
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\bin\Debug\netcoreapp2.0\Test_Employee.dll
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\bin\Debug\netcoreapp2.0\Test_Employee.pdb
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.csprojResolveAssemblyReference.cache
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.csproj.CoreCompileInputs.cache
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.AssemblyInfoInputs.cache
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.AssemblyInfo.cs
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.dll
+C:\Users\sri\source\repos\Test_Employee\Test_Employee\obj\Debug\netcoreapp2.0\Test_Employee.pdb
